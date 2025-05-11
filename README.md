@@ -5,3 +5,15 @@
 
 
 Изменения для домашнего задания «Про» (ветка feature-pro)
+
+
+## Установка
+
+1. Клонируйте репозиторий:
+   git clone https://github.com/vinmhl/my-first-repo.git
+
+2. Перейдите в папку проекта:
+   cd my-first-repo
+
+3. Установите зависимости (если есть):
+   pip install -r requirements.txt
