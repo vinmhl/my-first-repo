@@ -18,4 +18,9 @@
 3. Установите зависимости (если есть):
    pip install -r requirements.txt
 
-   Релиз версии 2.0
+
+  
+
+   https://github.com/users/vinmhl/projects/1/views/1
+
+Релиз версии 2.0
